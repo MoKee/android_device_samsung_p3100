@@ -224,7 +224,7 @@
          config to 7. -->
     <integer name="config_deviceHardwareKeys">0</integer>
 
-    <!-- Force Screen off animation -->
+    <!-- If this is true, the screen will fade off. -->
     <bool name="config_animateScreenLights">false</bool>
 
 </resources>
